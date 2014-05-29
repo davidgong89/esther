@@ -1,0 +1,24 @@
+/* CSS Document */
+
+#balloon{
+	margin-top:-20px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#pooh_head1{
+	margin-top:0px;
+	margin-left:0px;
+	margin-right:99999px;
+}
+
+#pooh_head2{
+	margin-top:-50px;
+	margin-right:0px;
+	margin-left:245px;
+}
+
+#honey{
+	margin-left:110px;
+	margin-top:-20px;
+}

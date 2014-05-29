@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns       = "http://www.w3.org/ns/widgets"
+    xmlns:gap       = "http://phonegap.com/ns/1.0"
+    xmlns:android   = "http://schemas.android.com/apk/res/android"
+    id              = "com.smu.esther"
+    version         = "1.0.0">
+	
+<name>Esther's 21st</name>
+
+<description>
+Esther's very special 21st birthday!!!
+In the year 2014.
+</description>
+
+<author href="https://example.com" email="you@example.com">
+David Gong
+</author>
+
+<icon src="icon.png" />
+<gap:splash src="splash.png" />
+
+<supports-screens android:anyDensity="true" android:resizeable="true" 
+    android:smallScreens="true" 
+    android:normalScreens="true" 
+    android:largeScreens="true" 
+    android:xlargeScreens="true" />
+
+</widget>
