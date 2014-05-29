@@ -16,8 +16,8 @@ In the year 2014.
 David Gong
 </author>
 
-<icon src="icon.png" />
-<gap:splash src="splash.png" />
+<icon src="esther_icon.png" />
+<gap:splash src="splash_screen.png" />
 
 <supports-screens android:anyDensity="true" android:resizeable="true" 
     android:smallScreens="true" 
