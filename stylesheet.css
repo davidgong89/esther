@@ -1,24 +1,49 @@
 /* CSS Document */
-
-#balloon{
-	margin-top:-20px;
-	margin-left:auto;
-	margin-right:auto;
+#title {
+	font-weight: bold;
+	font-family: "Comic Sans MS", cursive;
+	text-align: center;
+}
+.honey {
+	text-align: center;
+	display:block;
+	margin-left: auto;
+    margin-right: auto 
 }
 
-#pooh_head1{
-	margin-top:0px;
-	margin-left:0px;
-	margin-right:99999px;
+.honey_img {
+	display: block;
+    margin-left: auto;
+    margin-right: auto 
+
+}
+.honey_pot {
+    margin-left: auto;
+    margin-right: auto 
+
 }
 
-#pooh_head2{
-	margin-top:-50px;
-	margin-right:0px;
-	margin-left:245px;
+#bg1{
+	background-image: url("food.png");
+	text-align: center;
 }
 
-#honey{
-	margin-left:110px;
-	margin-top:-20px;
+#bg2{
+	background-image:url("congruent_pentagon.png");
+	text-align: center;
+}
+
+#bg3{
+	background-image:url("foxtail.png");
+	text-align: center;
+}
+
+#bg4{
+	background-image:url("retro-stripe-pattern.png");
+	text-align: center;
+}
+
+#bg5{
+	background-image:url("sativa.png");
+	text-align: center;
 }
